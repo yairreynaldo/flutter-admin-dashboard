@@ -26416,7 +26416,7 @@ return}throw"Unable to print message: "+String(a)},
 aKR(a){return A.ay(a)},
 atM(){var s,r=$.x6().Gt$
 r===$&&A.b()
-r.pz$="http://localhost:8080/api"
+r.pz$="https://admin-dashboard-yair.onrender.com/api"
 s=A.cq(J.bm($.u3.aI().a,"token"))
 r.sTr(0,A.ax(["x-token",s==null?"":s],t.N,t.z))},
 rQ(a){return A.aIv(a)},
